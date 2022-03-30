@@ -161,7 +161,7 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+		text-align: left;
 	}
 
 	header p {
@@ -193,7 +193,7 @@
 
 	header.major {
 		padding: 1em 0;
-		text-align: center;
+		text-align: left;
 	}
 
 		header.major h2 {
