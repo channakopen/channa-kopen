@@ -1,6 +1,6 @@
 name: Alpha
 description: Website Channa Kopen
-baseurl: '/channakopen'
+baseurl: '/channakopen.github.io'
 
 url: "http://localhost:4000"
 
